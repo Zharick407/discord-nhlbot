@@ -4,6 +4,7 @@ target/
 .classpath
 *.class
 /logs
+old_*
 
 
 # Mobile Tools for Java (J2ME)

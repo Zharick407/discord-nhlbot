@@ -1,14 +1,6 @@
 # NHLBot
-[![Support](https://img.shields.io/badge/Discord-NHLBot_Support-7289DA.svg?style=flat-square&logo=discord)](https://discord.gg/VVHe6d3) [![Twitter](https://img.shields.io/badge/Twitter-Hazeluff-00ACED.svg?style=flat-square&logo=twitter)](https://twitter.com/hazeluff)
 
-[![Donate](https://img.shields.io/badge/Donate-Paypal-%238d87a7.svg?style=flat-square&logo=paypal)](https://paypal.me/hazeluff)
-
-# Add NHLBot to your server:
-
-### [Invite NHLBot](https://discordapp.com/oauth2/authorize?client_id=257345858515894272&scope=bot&permissions=126032) - Use this link to add the bot to your server.
-
-1. Use the link above to invite the bot to your server. Make sure you do not change the permissions of the bot.
-2. Use `?subscribe [team]` to create game day channels for your team(s). 
+1. Use `?subscribe [team]` to create game day channels for your team(s). 
    - `[team]` is the 3 letter code for the team (same as the ones that are displayed on the tv scores)
    - Use `?subscribe help` to get the list of codes.
 
@@ -32,9 +24,6 @@
 ### In 'Game Day Channels' only
 - `score` Displays score of that game.
 - `goals` Displays goals of that game.
-
-# Support / Contact Me
-[![Support](https://img.shields.io/badge/Discord-NHLBot_Support-7289DA.svg?style=flat-square)](https://discord.gg/VVHe6d3) [![Twitter](https://img.shields.io/badge/Twitter-Hazeluff-00ACED.svg?style=flat-square&logo=twitter)](https://twitter.com/hazeluff)
 
 # Other
 
